@@ -31,5 +31,5 @@ npm run make
 ___
 
 - Navigate to `./out/Analysis Resurgence 3D-darwin-x64`
-- Sample data for analysis is available at `./MCT_1_rawdata`
+- Sample data for analysis is available upon request. matthewlamperski@ufl.edu
 - In this folder, you will find an executable application. Enjoy!
